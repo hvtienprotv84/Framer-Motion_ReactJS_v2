@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-    <h1>Framer-Motion - ReactJS - v2</h1>
+    <h1>Framer Motion - ReactJS - v2</h1>
 </div>
 
 - ReactJS
