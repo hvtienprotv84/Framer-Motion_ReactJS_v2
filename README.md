@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://ccweb.imgix.net/https%3A%2F%2Fimg.youtube.com%2Fvi%2F1vKiPwEYbyk%2Fhqdefault.jpg?ar=16%3A9&auto=format&cs=strip&fit=crop&h=380&ixlib=php-4.1.0&w=535&s=f6a4a458b5157e34f547237247a1e5eb" width="500"/>
+    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1676480733184/fd1e3866-7cd0-4fec-a472-579f60870dd6.jpeg" width="500"/>
 </div>
 
 <div align="center">
