@@ -11,7 +11,10 @@ const Nav = () => {
     <NavBAckground>
       <StyledNav>
         <Link id="logo" to="/">
+          <ContainerLogo>
           <ImgLogo src={logo} alt="" />
+          <p>Huỳnh Vĩnh Tiến</p>
+          </ContainerLogo>
         </Link>
         <ul>
           <li>
@@ -49,6 +52,7 @@ const Nav = () => {
 
 const ImgLogo = styled.img`
   width: 80px;
+  height: 80px;
 `;
 
 const NavBAckground = styled.div`
@@ -91,6 +95,20 @@ const StyledNav = styled.nav`
     position: absolute;
     bottom: -50%;
     left: 60%;
+  }
+`;
+
+const ContainerLogo = styled.div`
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+
+  p{
+    margin-left: 10px;
+    color: white;
+    font-size: 40px;
   }
 `;
 
